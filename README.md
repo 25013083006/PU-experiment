@@ -1,4 +1,4 @@
-# PU Experiment
+﻿# PU Experiment
 
 Stage 0 audits the external Paderborn University bearing subset and creates deterministic manifests and splits. Stage 0.5 materializes normalized windows into PyTorch caches so baseline training does not reread MAT files per batch.
 
