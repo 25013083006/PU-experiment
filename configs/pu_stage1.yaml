@@ -1,0 +1,9 @@
+epochs: 30
+patience: 7
+batch_size: 128
+learning_rate: 0.0003
+weight_decay: 0.0001
+seeds: [42]
+models: [vibration, current, fusion]
+reproduction: true
+strict: true

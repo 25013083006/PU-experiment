@@ -1,0 +1,9 @@
+{
+  "config": "D:\\code\\putest\\pu_experiment\\configs\\pu_stage0.yaml",
+  "config_sha256": "18f696d3dccb2fbfb7b0f0af6c4488a4c8e28a75e3882299ad9049e636b6e182",
+  "file_manifest_sha256": "22eafa8f9c7aa2887dbfe1d8442b695eaa017adae642dd049b3f8e2de2f21f40",
+  "sample_manifest_sha256": "4e898ae1b23d9b6a776d9dbb52a9d4faf112597410d3bffae2502708a0a5471b",
+  "file_count": 720,
+  "accepted_file_count": 720,
+  "sample_count": 7200
+}

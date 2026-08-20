@@ -1,0 +1,15 @@
+dataset_root: "D:/code/putest/PU-dataset-main"
+window_length: 2048
+windows_per_file: 10
+reproduction_seed: 2026
+reproduction_ratio: [3, 1, 1]
+labels:
+  K001: 0
+  K002: 0
+  K003: 0
+  KA04: 1
+  KA15: 1
+  KA16: 1
+  KI04: 2
+  KI14: 2
+  KI16: 2

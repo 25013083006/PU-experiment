@@ -1,0 +1,26 @@
+﻿# Python caches and environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local test artifacts
+.test_outputs/
+
+# Raw, processed, and generated experiment data
+data/raw/*
+!data/raw/README.md
+data/processed/
+
+# Training outputs and checkpoints
+runs/
+*.pt
+*.pth
+*.ckpt
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

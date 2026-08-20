@@ -1,0 +1,12 @@
+{
+  "config": "D:\\code\\putest\\pu_experiment\\configs\\pu_stage0.yaml",
+  "config_sha256": "18f696d3dccb2fbfb7b0f0af6c4488a4c8e28a75e3882299ad9049e636b6e182",
+  "sample_manifest_sha256": "4e898ae1b23d9b6a776d9dbb52a9d4faf112597410d3bffae2502708a0a5471b",
+  "sample_count": 7200,
+  "split_files": [
+    "split_reproduction.json",
+    "split_strict_fold0.json",
+    "split_strict_fold1.json",
+    "split_strict_fold2.json"
+  ]
+}
